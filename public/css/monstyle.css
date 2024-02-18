@@ -1,0 +1,49 @@
+/* 
+couleur 1 bleu domainate : celestial blue : pr les elements impotantes: entetes, btn principaux etc
+#3498DB 
+
+coleur 2 gris :  thistle : couleur secondaire: plus pour les elements de fond, bordures, pour ajoutre de la profondeur et de la variete
+#E2CFEA
+
+couleur 3 bleu verdatre:  tiffany blue : couleur d'accentuation et mise evidence d'elements specifiques: liens , icones ,elements interactifs
+#97D8C4
+
+couleur 4 or: old gold : rajoute des touches de luxe ou d'elegance, pr des icones speciaux, elements de mise en page
+#E2C044
+
+couleur 5 noir violacet : english violet : plus sombre, à utiliser comme couleur de fond pr zones de textes, panneaux latérales, etc
+#4C3B4D
+
+*/
+
+/* pied de page */
+
+/* SPECIFICATION DE LA POLICE MONTSERAT POUR LES TITRES H1 */
+/* Exemple d'utilisation des couleurs dans votre CSS */
+
+/* Couleur dominante pour les entêtes, les boutons principaux, etc. */
+.header, button.primary-button {
+    background-color: #3498DB;
+}
+
+/* Couleur secondaire pour certains éléments */
+.footer, .sidebar {
+    background-color: #E2CFEA;
+}
+
+/* Couleurs d'accent pour les liens */
+a {
+    color: #97D8C4;
+}
+
+/* Couleur de fond pour certains panneaux */
+.panel {
+    background-color: #4C3B4D;
+}
+
+/* Couleur dorée pour des éléments spéciaux */
+.special-icon {
+    color: #E2C044;
+}
+
+
